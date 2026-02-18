@@ -1,6 +1,6 @@
-import { type Product } from '../types/product.types';
+import type { Product } from '../types/product.types';
 
-export const SHOP_PHONE_NUMBER = '1234567890';
+export const SHOP_PHONE_NUMBER = '2519777879'; 
 
 export const generateWhatsAppLink = (
   product?: Product,

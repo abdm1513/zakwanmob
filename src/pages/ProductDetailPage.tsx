@@ -3,7 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { useLanguage } from '../context/LanguageProvider';
 import { products } from '../data/products';
 import { ProductCard } from '../components/ui/ProductCard';
-import { generateWhatsAppLink } from '../utils/whatsapp';
+import { generateWhatsAppLink, SHOP_PHONE_NUMBER } from '../utils/whatsapp';
 import { 
   MessageCircle, 
   Phone, 
@@ -141,6 +141,13 @@ export const ProductDetailPage: React.FC = () => {
                 </a>
                 <a 
                   href="tel:+1234567890" 
+                  className="flex-1 border-2 border-blue-600 text-blue-600 hover:bg-blue-50 px-6 py-3 rounded-lg font-semibold text-lg flex items-center justify-center gap-2 transition-all duration-200"
+                >
+                  <Phone className="w-5 h-5" />
+                  {t('product.callToOrder')}
+                </a>
+                <a 
+                  href={`tel:+${SHOP_PHONE_NUMBER}`} 
                   className="flex-1 border-2 border-blue-600 text-blue-600 hover:bg-blue-50 px-6 py-3 rounded-lg font-semibold text-lg flex items-center justify-center gap-2 transition-all duration-200"
                 >
                   <Phone className="w-5 h-5" />
