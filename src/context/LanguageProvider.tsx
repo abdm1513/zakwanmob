@@ -106,7 +106,7 @@ const translations: Translations = {
     'cta.liveChat': 'Live Chat',
     'cta.email': 'Email',
     'cta.visit': 'Visit Store',
-    'cta.hours': 'Visit our store: 123 Main Street, City | Mon-Sat: 10am - 8pm, Sun: 12pm - 6pm',
+    'cta.hours': 'Visit our store: Bole, Addis Ababa | Mon-Sat: 10am - 8pm, Sun: 12pm - 6pm',
     
     // Products Page
     'products.title': 'Products',
@@ -228,7 +228,7 @@ const translations: Translations = {
     'cta.liveChat': 'የቀጥታ ውይይት',
     'cta.email': 'ኢሜይል',
     'cta.visit': 'ሱቅ ይጎብኙ',
-    'cta.hours': 'ሱቃችንን ይጎብኙ፡ 123 ዋና ጎዳና፣ ከተማ | ሰኞ-ቅዳሜ፡ 10am - 8pm፣ እሁድ፡ 12pm - 6pm',
+    'cta.hours': 'ሱቃችንን ይጎብኙ፡ ቦሌ፣ አዲስ አበባ | ሰኞ-ቅዳሜ፡ 10am - 8pm፣ እሁድ፡ 12pm - 6pm',
     
     // Products Page
     'products.title': 'ምርቶች',
@@ -350,7 +350,7 @@ const translations: Translations = {
     'cta.liveChat': 'Haasa\'a Lallaafaa',
     'cta.email': 'Email',
     'cta.visit': 'Daldalaa Daawwadhu',
-    'cta.hours': 'Daldalaa keenya daawwadhu: 123 Daandii Guddaa, Magaalaa | Wiixata-Sanbata: 10:00-20:00, Dilbata: 12:00-18:00',
+    'cta.hours': 'Daldalaa keenya daawwadhu: Bole, Addis Ababa | Wiixata-Sanbata: 10:00-20:00, Dilbata: 12:00-18:00',
     
     // Products Page
     'products.title': 'Oomishaalee',

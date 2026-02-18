@@ -133,7 +133,7 @@ export const Header: React.FC = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
             <Smartphone className="w-8 h-8 text-blue-600" />
-            <span className="font-bold text-xl text-gray-800">PhoneHub</span>
+            <span className="font-bold text-xl text-gray-800">Zakwan Mobile</span>
           </Link>
 
           {/* Desktop Navigation */}

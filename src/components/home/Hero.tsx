@@ -161,16 +161,16 @@ export const Hero: React.FC = () => {
             {/* Stats */}
             <div className="grid grid-cols-3 gap-4 mt-12 max-w-md mx-auto md:mx-0">
               <div>
-                <div className="text-2xl font-bold">500+</div>
+                <div className="text-xl font-bold">500+</div>
                 <div className="text-sm text-blue-200">{t('hero.stats.products')}</div>
               </div>
               <div>
-                <div className="text-2xl font-bold">30-{t('hero.stats.warranty')}</div>
+                <div className="text-xl font-bold">30-Day{t('hero.stats.warranty')}</div>
                 <div className="text-sm text-blue-200">{t('hero.stats.warranty')}</div>
               </div>
               <div>
-                <div className="text-2xl font-bold">{t('hero.stats.delivery')}</div>
-                <div className="text-sm text-blue-200">{t('hero.stats.delivery')}</div>
+                <div className="text-xl font-bold">{t('hero.stats.delivery')}</div>
+                {/* <div className="text-sm text-blue-200">{t('hero.stats.delivery')}</div> */}
               </div>
             </div>
           </div>
