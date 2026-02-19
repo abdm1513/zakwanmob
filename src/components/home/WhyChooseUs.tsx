@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLanguage } from '../../context/LanguageProvider';
-import { Shield, Truck, CreditCard, Headset, Award, RefreshCw, BadgeCheck, Lock, Star } from 'lucide-react';
+import { Shield, Truck, Headset, Award, RefreshCw, BadgeCheck, Lock, Star } from 'lucide-react';
 
 interface FeatureProps {
   icon: React.ReactNode;
