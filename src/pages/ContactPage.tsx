@@ -299,7 +299,7 @@ export const ContactPage: React.FC = () => {
               <Mail className="w-8 h-8 mb-3" />
               <h3 className="font-semibold text-lg mb-1">{t('contact.email')}</h3>
               <p className="text-gray-300 text-sm mb-2">{t('contact.email.desc')}</p>
-              <p className="text-sm opacity-90">info@phonehub.com</p>
+              <p className="text-sm opacity-90">info@zakwanmob.com</p>
             </a>
 
             {/* Visit Card */}
@@ -307,8 +307,8 @@ export const ContactPage: React.FC = () => {
               <MapPin className="w-8 h-8 mb-3 text-blue-600" />
               <h3 className="font-semibold text-lg mb-1">{t('contact.visit')}</h3>
               <p className="text-gray-600 text-sm mb-2">
-                123 Main Street<br />
-                Downtown, City, State 12345
+                Bole<br />
+                Addis Ababa, Ethiopia
               </p>
               <div className="flex items-center gap-2 text-sm text-gray-500">
                 <Clock className="w-4 h-4" />
@@ -413,7 +413,7 @@ export const ContactPage: React.FC = () => {
             <div className="text-center">
               <MapPin className="w-8 h-8 mx-auto mb-2 text-gray-400" />
               <p className="text-gray-500">Map will be embedded here</p>
-              <p className="text-sm text-gray-400">123 Main Street, City, State 12345</p>
+              <p className="text-sm text-gray-400">Bole, Addis Ababa, Ethiopia</p>
             </div>
           </div>
         </div>

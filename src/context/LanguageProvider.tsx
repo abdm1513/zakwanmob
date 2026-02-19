@@ -82,7 +82,7 @@ const translations: Translations = {
     'featured.categories.accessories': 'Accessories',
     
     // Why Choose Us
-    'why.title': 'Why Choose PhoneHub?',
+    'why.title': 'Why Choose Zakwan?',
     'why.subtitle': "We're committed to providing the best quality and service to our customers",
     'why.feature1.title': '30-Day Warranty',
     'why.feature1.desc': 'All our phones come with a 30-day warranty for your peace of mind.',
@@ -185,11 +185,11 @@ const translations: Translations = {
     
     // Hero Section
     'hero.badge': 'ከ10,000 በላይ ደንበኞች ያምኑናል',
-    'hero.title.line1': 'ቀጣይ',
-    'hero.title.line2': 'ስማርትፎንዎ እየጠበቀዎ ነው',
+    'hero.title.line1': 'ቀጣይ ስማርት',
+    'hero.title.line2': 'ስልክዎ እየጠበቀዎ ነው',
     'hero.description': 'አዲስ፣ ያገለገሉ እና ታድሰው የቀረቡ ስልኮች ምርጥ ዋጋዎች። በ30 ቀን ዋስትና እና ነፃ አቅርቦት የተረጋገጠ ጥራት።',
     'hero.shopNow': 'አሁን ይግዙ',
-    'hero.chatNow': 'በWhatsApp ይነጋገሩ',
+    'hero.chatNow': 'በWhatsApp ያናግሩን',
     'hero.stats.products': 'ምርቶች',
     'hero.stats.warranty': 'ዋስትና',
     'hero.stats.delivery': 'ነፃ አቅርቦት',
@@ -201,10 +201,10 @@ const translations: Translations = {
     'featured.categories.new': 'አዲስ ስልኮች',
     'featured.categories.used': 'ያገለገሉ ስልኮች',
     'featured.categories.refurbished': 'ታድሰው የቀረቡ',
-    'featured.categories.accessories': 'መለዋወጫዎች',
+    'featured.categories.accessories': 'አክሰሰሪዎች',
     
     // Why Choose Us
-    'why.title': 'ለምን PhoneHubን ይመርጣሉ?',
+    'why.title': 'ለምን Zakwanን ይመርጣሉ?',
     'why.subtitle': 'ለደንበኞቻችን ምርጥ ጥራት እና አገልግሎት ለመስጠት ቆርጠን ተነስተናል',
     'why.feature1.title': '30 ቀን ዋስትና',
     'why.feature1.desc': 'ሁሉም ስልኮቻችን ለእርስዎ እርጋታ 30 ቀን ዋስትና አላቸው።',
@@ -213,7 +213,7 @@ const translations: Translations = {
     'why.feature3.title': 'ተለዋዋጭ ክፍያ',
     'why.feature3.desc': 'በ0% ወለድ በክፍያ ይክፈሉ። ክሬዲት ካርዶች ተቀባይነት አላቸው።',
     'why.feature4.title': '24/7 ድጋፍ',
-    'why.feature4.desc': 'በWhatsApp፣ ስልክ ወይም ኢሜይል ሁልጊዜ ለመርዳት ዝግጁ ነን።',
+    'why.feature4.desc': 'በWhatsApp፣ ስልክ ወይም ኢሜይል ሁልጊዜ ለማገዝ ዝግጁ ነን።',
     'why.feature5.title': 'ጥራት ተረጋግጧል',
     'why.feature5.desc': 'እያንዳንዱ ስልክ 50-ነጥብ የጥራት ምርመራ ያልፋል።',
     'why.feature6.title': 'ቀላል መመለሻ',
@@ -222,7 +222,7 @@ const translations: Translations = {
     // CTA Section
     'cta.title': 'የሚፈልጉትን ማግኘት አልቻሉም?',
     'cta.description': 'በቀጥታ ያግኙን! የተወሰኑ ሞዴሎችን እና መለዋወጫዎችን ማግኘት እንችላለን። በደቂቃዎች ውስጥ ግላዊ ዋጋ ያግኙ።',
-    'cta.whatsapp': 'በWhatsApp ይነጋገሩ',
+    'cta.whatsapp': 'በWhatsApp ያናግሩን',
     'cta.call': 'አሁን ይደውሉ',
     'cta.sms': 'ኤስኤምኤስ',
     'cta.liveChat': 'የቀጥታ ውይይት',
@@ -326,7 +326,7 @@ const translations: Translations = {
     'featured.categories.accessories': 'Meeshaalee',
     
     // Why Choose Us
-    'why.title': 'Maaliif PhoneHub Filatta?',
+    'why.title': 'Maaliif Zakwan Filatta?',
     'why.subtitle': 'Maamilaaf tajaajila fi qulqullina isa an caalu kennuuf waadaa seennee jirra',
     'why.feature1.title': 'Waaraantii 30-Guyyaa',
     'why.feature1.desc': 'Bilbilli keenya hundi nagaa qabaachuuf waaraantii 30-guyyaa qaba.',

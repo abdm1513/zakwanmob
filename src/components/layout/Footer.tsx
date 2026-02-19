@@ -14,7 +14,7 @@ export const Footer: React.FC = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <Smartphone className="w-6 h-6 text-blue-400" />
-              <span className="font-bold text-xl text-white">PhoneHub</span>
+              <span className="font-bold text-xl text-white">Zakwan</span>
             </div>
             <p className="text-sm mb-4">
               {t('footer.description')}
@@ -59,15 +59,15 @@ export const Footer: React.FC = () => {
             <ul className="space-y-2">
               <li className="flex items-start gap-2">
                 <MapPin className="w-5 h-5 text-blue-400 flex-shrink-0" />
-                <span>123 Main Street, City, State 12345</span>
+                <span>Bole, Addis Ababa, Ethiopia</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-5 h-5 text-blue-400" />
-                <a href="tel:+1234567890" className="hover:text-blue-400">(123) 456-7890</a>
+                <a href="tel:+1234567890" className="hover:text-blue-400">+251 977787906</a>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-5 h-5 text-blue-400" />
-                <a href="mailto:info@phonehub.com" className="hover:text-blue-400">info@phonehub.com</a>
+                <a href="mailto:info@phonehub.com" className="hover:text-blue-400">info@zakwanmob.com</a>
               </li>
             </ul>
           </div>
@@ -75,7 +75,7 @@ export const Footer: React.FC = () => {
 
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-8 pt-6 text-center text-sm">
-          <p>&copy; {new Date().getFullYear()} PhoneHub. {t('footer.rights')}</p>
+          <p>&copy; {new Date().getFullYear()} Zakwan. {t('footer.rights')}</p>
         </div>
       </div>
     </footer>
